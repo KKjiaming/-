@@ -1,0 +1,24 @@
+@inproceedings{nayef2019icdar2019,
+  title={ICDAR2019 robust reading challenge on multi-lingual scene text detection and recognition—RRC-MLT-2019},
+  author={Nayef, Nibal and Patel, Yash and Busta, Michal and Chowdhury, Pinaki Nath and Karatzas, Dimosthenis and Khlif, Wafa and Matas, Jiri and Pal, Umapada and Burie, Jean-Christophe and Liu, Cheng-lin and others},
+  booktitle={2019 International Conference on Document Analysis and Recognition (ICDAR)},
+  pages={1582--1587},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{girshick2015fast,
+  title={Fast r-cnn},
+  author={Girshick, Ross},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={1440--1448},
+  year={2015}
+}
+
+@inproceedings{he2017mask,
+  title={Mask r-cnn},
+  author={He, Kaiming and Gkioxari, Georgia and Doll{\'a}r, Piotr and Girshick, Ross},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={2961--2969},
+  year={2017}
+}
